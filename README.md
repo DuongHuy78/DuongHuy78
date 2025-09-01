@@ -6,15 +6,22 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt="cplusplus logo" title="cplusplus" height="25" /></span>
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=C++&logoColor=#00599C" alt="cplusplus logo" title="cplusplus" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=#512BD4" alt="dotnet logo" title="dotnet" height="25" /></span>
+<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=#512BD4" alt=".Net logo" title="dotnet" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/dart-282C34?logo=dart&logoColor=#0175C2" alt="dart logo" title="dart" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/java-282C34?logo=openjdk&logoColor=E34F26" alt="Java logo" title="Java" height="25" /></span>
+<span style="background-color:#282C34; border-radius:6px; padding:2px 8px; display:inline-flex; align-items:center;">
+  <img src="icon/icons8-java-50.png" alt="Java logo" title="Java" height="25" />
+  <span style="margin-left:6px;">Java</span>
+</span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/sql%20server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server logo" title="SQL Server" height="25" /></span>
+<span style="background-color:#282C34; border-radius:6px; padding:2px 8px; display:inline-flex; align-items:center;">
+  <img src="icon/icons8-sql-server-48.png" alt="SQL Server logo" title="SQL Server" height="25" />
+  <span style="margin-left:6px;">SQL Server</span>
+</span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=#4479A1" alt="mysql logo" title="mysql" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
